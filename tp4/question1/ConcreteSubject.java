@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  * Décrivez votre classe ConcreteSubject ici.
  * 
- * @author (votre nom)
+ * @author (Omar Kasabaki)
  * @version (un numéro de version ou une date)
  */
 public class ConcreteSubject extends Observable {
